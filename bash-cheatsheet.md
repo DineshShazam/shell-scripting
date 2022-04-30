@@ -3,7 +3,7 @@
 ### FILE SYSTEM
 
 * List the Directory
-  * **ls -a **⇒ lists the hidden files
+  * **ls -a**⇒ lists the hidden files
   * **ls -l** ⇒ list the folder permission and timestamp created.
 * List the path of the working directory
   * **pwd**
