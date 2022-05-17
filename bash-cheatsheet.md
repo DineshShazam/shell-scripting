@@ -39,6 +39,9 @@
   * **find /path -empty** --> will list the empty text file 
   *  **find /path -type f -iname "*.txt"** --> will list files that has extension .txt
   *  **find /path -type f -iname "*.txt" -exec rm -rf {} +** --> will delete all the files with extension .txt
+* Create a file with a specified MB
+  * **dd if=/dev/zero 0f=bigfile.txt bs=1M count 500** --> a text file with 500 MB will be created
+  * **du -sh bigfile.txt** --> list the file size
 
 ### GREP 
 * Search for a particular string in a file
