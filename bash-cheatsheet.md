@@ -233,3 +233,25 @@
 - SRV record --> Service Record, is a record that specifies hostname and port number for a specific service, it can be used for service discovery
 ```
 
+### ADVANCED LINUX COMMANDS 
+* [linux and terminal networking utilities](https://medium.com/@joelbelton/the-most-important-linux-commands-that-nobody-teaches-you-ce423ef2ae28)
+
+### TERMINAL SHORTCUTS
+
+* Cutting and pasting in terminal 
+ * **ctrl+shift+c** and **ctrl+shift+x** --> to copy and cut text.
+ * **ctrl+shift+v** --> to paste the text. 
+ * **ctrl-k** --> cuts the text from the current cursor location to the end of the line. 
+ * **ctrl-u** --> --> cuts the text from the current cursor location to the beginning of the line.
+ * **ctrl-w** --> cuts the text from the current cursor location to the end of the word.
+ * **alt-d** -->  cuts the text from the current cursor location to the beginning of the word.
+ * **ctrl-y** --> will paste the above cut text in the terminal.
+
+* Jumping in the command line
+ * **ctrl-a**: moves the cursor to the beginning of the line. This is similar to pressing the Home button on the keyboard.
+ * **ctrl-e**: moves the cursor to the end of the line. This is similar to pressing the End button on the keyboard.
+ * **ctrl-f**: moves the cursor forward one character at a time (same as the right arrow).
+ * **ctrl-b**: moves the cursor backward one character at a time (same as the left arrow).
+ * **alt-f**: moves the cursor forward one word (same as pressing ctrl + right arrow).
+ * **alt-b**: moves the cursor forward one word (same as pressing ctrl + right arrow).
+ * **ctrl-t**: swaps the current character under the cursor with the one preceding it. This can be useful to correct typos very quickly!
